@@ -1,4 +1,4 @@
-name: 'Actions Cf2DNSPod'
+name: 'Actions 2DNS'
 
 on:
   push:
