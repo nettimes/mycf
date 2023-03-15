@@ -1,4 +1,4 @@
-name: 'Actions 2DNS'
+name: 'Actions DNS'
 
 on:
   push:
