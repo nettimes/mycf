@@ -1,4 +1,4 @@
-name: 'Actions--DNS'
+name: 'Actions-DNS'
 
 on:
   push:
